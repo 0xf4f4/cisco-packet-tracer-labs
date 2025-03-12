@@ -1,4 +1,4 @@
-# Day 11 - Jeremy IT Labs
+# Day 11 - Static Routing
 
 ## Lab Summary  
 In this lab, I configured the network to allow communication between PC1 (192.168.1.1) and PC2 (192.168.3.1) through three routers (R1, R2, and R3).
