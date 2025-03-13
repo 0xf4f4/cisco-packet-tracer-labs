@@ -8,6 +8,7 @@ In this lab, I analyzed how a packet moves through a network. The devices were a
 2. **Analyzed changes** in MAC address at each hop.  
 3. **Answered questions** based on observations.  
 
-## Lab Topology Questions and Answers  
+## Lab Topology and Questions
 ![Lab Topology and Questions](day12a.png)
+## Answers
 ![Answers](day12b.png)  
