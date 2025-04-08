@@ -1,7 +1,7 @@
 # Day 16 - VLANs and Inter-VLAN Routing
 
 ## Lab Summary  
-In this lab, I configured three VLANs (**Engineering**, **HR**, and **Sales**) with proper subnetting and routing via router-on-a-stick setup.
+In this lab, I configured three VLANs (**Engineering**, **HR**, and **Sales**) with proper subnetting and routing.
 
 ### Steps performed:
 1. **Assigned IPs** to PCs:  
